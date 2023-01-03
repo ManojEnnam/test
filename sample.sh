@@ -7,3 +7,6 @@ class=devops
 
 echo trainer name=$trainer
 echo class name=$class
+
+Date=$(date +%F)
+echo hey, Today date is $Date
